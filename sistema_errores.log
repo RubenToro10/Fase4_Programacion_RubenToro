@@ -1,0 +1,6 @@
+2026-11-16 18:56:26,856 - ERROR - Correo inválido para el cliente Carlos Pérez: correo-sin-formato
+2026-11-16 18:56:26,858 - ERROR - Reserva R05 fallida por valor: Las horas deben ser mayores a cero.
+2026-11-16 18:56:26,860 - ERROR - Reserva R08 fallida por valor: Las horas deben ser mayores a cero.
+2026-11-16 19:02:13,468 - ERROR - Correo inválido para el cliente Carlos Pérez: correo-sin-formato
+2026-11-16 19:02:13,469 - ERROR - Reserva R05 fallida por valor: Las horas deben ser mayores a cero.
+2026-11-16 19:02:13,470 - ERROR - Reserva R08 fallida por valor: Las horas deben ser mayores a cero.
